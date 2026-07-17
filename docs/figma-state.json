@@ -1,0 +1,142 @@
+{
+  "runId": "munap-hankki-20260717",
+  "fileKey": "0yrs9wRxhijR9HJQ9TllIb",
+  "fileUrl": "https://www.figma.com/design/0yrs9wRxhijR9HJQ9TllIb",
+  "phase": "phase2",
+  "step": "P2.d",
+  "entities": {
+    "collections": {
+      "문앞한끼 Tokens": "VariableCollectionId:4:2"
+    },
+    "variables": {
+      "primitive/brand/500": "VariableID:4:3",
+      "primitive/brand/050": "VariableID:4:4",
+      "primitive/neutral/000": "VariableID:4:5",
+      "primitive/neutral/900": "VariableID:4:6",
+      "primitive/neutral/600": "VariableID:4:7",
+      "primitive/neutral/300": "VariableID:4:8",
+      "color/bg/page": "VariableID:4:9",
+      "color/bg/card": "VariableID:4:10",
+      "color/action/primary": "VariableID:4:11",
+      "color/text/primary": "VariableID:4:12",
+      "color/text/secondary": "VariableID:4:13",
+      "color/border/default": "VariableID:4:14",
+      "spacing/sm": "VariableID:4:15",
+      "spacing/md": "VariableID:4:16",
+      "spacing/lg": "VariableID:4:17",
+      "spacing/xl": "VariableID:4:18",
+      "radius/md": "VariableID:4:19",
+      "radius/lg": "VariableID:4:20"
+    },
+    "pages": {
+      "00 Cover": "0:1",
+      "01 Foundations": "8:5",
+      "02 Main Screen": "created-in-figma-desktop",
+      "99 Archive": "created-in-figma-desktop"
+    },
+    "styles": {
+      "Display/Hero": "S:3fe124755d8464e548adf83f14833ac823ba6ea5,",
+      "Heading/Section": "S:20a4f7ba2656fbabe9ce76c06a7f59e2660ae7b6,",
+      "Body/Large": "S:5acb6659314bba29de08832a924fda8aa658fd63,",
+      "Body/Medium": "S:ad0b0f75662aab0a1ae2ac2bfef576900ea4a3fd,",
+      "Label/Large": "S:2377ce7bdc05ee4d27e2138a5872989d6fe67593,",
+      "Shadow/Soft": "S:c6d919104bf75ed1995b0de530cb53fd29233206,"
+    },
+    "components": {},
+    "screens": {
+      "Main/Desktop 1440": {
+        "page": "02 Main Screen",
+        "size": "1440x900",
+        "source": "assets/main-screen.svg",
+        "preview": "assets/main-screen.png"
+      }
+    }
+  },
+  "discovery": {
+    "existingFile": {
+      "pages": 1,
+      "collections": 0,
+      "variables": 0,
+      "components": 0,
+      "textStyles": 0,
+      "effectStyles": 0
+    },
+    "codeConnect": "not-applicable-no-codebase",
+    "reusableLibrary": "Simple Design System reviewed",
+    "reuseDecision": "build-minimal-local-assets-for-brand-and-korean-copy",
+    "fontConflict": "Pretendard unavailable; Noto Sans KR available"
+  },
+  "lockedScope": {
+    "collections": 1,
+    "variables": "fewer-than-20",
+    "textStyles": 5,
+    "effectStyles": 1,
+    "components": [
+      "Button",
+      "SettingToggle"
+    ],
+    "screen": "1440px desktop main screen"
+  },
+  "decisions": {
+    "font": "Noto Sans KR Regular Medium Bold",
+    "phase1ScopeApproved": true,
+    "finalLabels": [
+      "3개 모두 켜짐",
+      "전화하지 않기",
+      "벨 누르지 않기",
+      "문 앞에 두기",
+      "불가피할 때만 앱 알림 받기"
+    ]
+  },
+  "actualFigmaScope": {
+    "staticMainScreen": true,
+    "prototype": false,
+    "reusableButtonComponent": false,
+    "reusableSettingToggleComponent": false,
+    "variants": false
+  },
+  "validations": {
+    "P1.g": {
+      "passed": true,
+      "collections": 1,
+      "variables": 18
+    },
+    "P1.h": {
+      "passed": true,
+      "textStyles": 5,
+      "effectStyles": 1
+    },
+    "P2.d": {
+      "passed": true,
+      "screenSize": "1440x900",
+      "koreanTextRendered": true,
+      "requirementCoverage": [
+        "target-user",
+        "problem",
+        "core-function",
+        "next-action"
+      ]
+    }
+  },
+  "pendingValidations": [],
+  "completedSteps": [
+    "P0.a",
+    "P0.b",
+    "P0.c",
+    "P0.d",
+    "P0.e",
+    "P0.f",
+    "P1.a",
+    "P1.b",
+    "P1.c",
+    "P1.d",
+    "P1.e",
+    "P1.f",
+    "P1.g",
+    "P1.h",
+    "P2.a",
+    "P2.b",
+    "P2.c",
+    "P2.d"
+  ]
+}

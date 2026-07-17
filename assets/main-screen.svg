@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" fill="none">
+  <defs>
+    <filter id="cardShadow" x="-80" y="-80" width="684" height="840" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="28" flood-color="#17211F" flood-opacity="0.12"/>
+    </filter>
+    <clipPath id="screenClip">
+      <rect width="1440" height="900" rx="0"/>
+    </clipPath>
+  </defs>
+
+  <g id="Main Desktop" clip-path="url(#screenClip)">
+    <rect id="Page Background" width="1440" height="900" fill="#EAF8F4"/>
+
+    <g id="Background Decoration" opacity="0.7">
+      <circle cx="1372" cy="34" r="170" fill="#D6F2EA"/>
+      <circle cx="72" cy="858" r="210" fill="#DFF5EF"/>
+      <path d="M112 696C270 632 384 660 512 744" stroke="#B9E5D9" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 14"/>
+      <circle cx="548" cy="764" r="7" fill="#2E9B83"/>
+    </g>
+
+    <g id="Header">
+      <g id="Brand" transform="translate(112 64)">
+        <rect width="44" height="44" rx="14" fill="#2E9B83"/>
+        <path d="M14 31V16.5L22 11L30 16.5V31" stroke="#17211F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M18.5 31V22H25.5V31" stroke="#17211F" stroke-width="2.5" stroke-linejoin="round"/>
+        <text x="58" y="31" fill="#17211F" font-family="Noto Sans KR" font-size="24" font-weight="700">문앞한끼</text>
+      </g>
+      <g id="Quiet Order Badge" transform="translate(1104 66)">
+        <rect width="224" height="40" rx="20" fill="#FFFFFF" stroke="#C7D8D2"/>
+        <circle cx="22" cy="20" r="6" fill="#2E9B83"/>
+        <text x="38" y="25" fill="#52635E" font-family="Noto Sans KR" font-size="14" font-weight="500">대화 없이 주문할 수 있어요</text>
+      </g>
+    </g>
+
+    <g id="Intro Content" transform="translate(112 176)">
+      <g id="Audience Label">
+        <rect width="366" height="40" rx="20" fill="#FFFFFF" stroke="#C7D8D2"/>
+        <text x="18" y="26" fill="#52635E" font-family="Noto Sans KR" font-size="14" font-weight="500">대화나 대면이 부담스러운 사람을 위한 배달 서비스</text>
+      </g>
+
+      <text id="Hero Title" x="0" y="118" fill="#17211F" font-family="Noto Sans KR" font-size="58" font-weight="700" letter-spacing="-1.5">
+        <tspan x="0" dy="0">내가 정한 방식 그대로</tspan>
+        <tspan x="0" dy="76">도착하는 한 끼.</tspan>
+      </text>
+
+      <text id="Hero Description" x="0" y="296" fill="#52635E" font-family="Noto Sans KR" font-size="18" font-weight="400">
+        <tspan x="0" dy="0">전화와 초인종 걱정 없이, 먼저 안심 설정을 정하고</tspan>
+        <tspan x="0" dy="30">편안한 마음으로 메뉴를 골라보세요.</tspan>
+      </text>
+
+      <g id="Benefit Chips" transform="translate(0 374)">
+        <g id="No Phone Chip">
+          <rect width="142" height="48" rx="24" fill="#FFFFFF"/>
+          <path d="M23 16C23 22 28 27 34 28" stroke="#2E9B83" stroke-width="2" stroke-linecap="round"/>
+          <path d="M21 14L25 12L28 18L25 20" stroke="#2E9B83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M33 25L35 22L41 25L39 29" stroke="#2E9B83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M19 31L42 12" stroke="#2E9B83" stroke-width="2" stroke-linecap="round"/>
+          <text x="52" y="30" fill="#17211F" font-family="Noto Sans KR" font-size="15" font-weight="500">전화 없이</text>
+        </g>
+        <g id="No Bell Chip" transform="translate(154 0)">
+          <rect width="154" height="48" rx="24" fill="#FFFFFF"/>
+          <path d="M29 14C24.5 14 22 17.5 22 22V27H36V22C36 17.5 33.5 14 29 14Z" stroke="#2E9B83" stroke-width="2" stroke-linejoin="round"/>
+          <path d="M26 31H32" stroke="#2E9B83" stroke-width="2" stroke-linecap="round"/>
+          <path d="M19 32L39 12" stroke="#2E9B83" stroke-width="2" stroke-linecap="round"/>
+          <text x="50" y="30" fill="#17211F" font-family="Noto Sans KR" font-size="15" font-weight="500">초인종 없이</text>
+        </g>
+        <g id="Door Drop Chip" transform="translate(320 0)">
+          <rect width="164" height="48" rx="24" fill="#FFFFFF"/>
+          <path d="M20 29V17H34V29" stroke="#2E9B83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M24 29V23H31V29" stroke="#2E9B83" stroke-width="2" stroke-linejoin="round"/>
+          <rect x="35" y="25" width="8" height="6" rx="1" stroke="#2E9B83" stroke-width="2"/>
+          <text x="53" y="30" fill="#17211F" font-family="Noto Sans KR" font-size="15" font-weight="500">문 앞에 두기</text>
+        </g>
+      </g>
+
+      <g id="Flow Preview" transform="translate(0 486)">
+        <text x="0" y="0" fill="#52635E" font-family="Noto Sans KR" font-size="13" font-weight="500">이용 순서</text>
+        <g transform="translate(0 20)">
+          <circle cx="14" cy="14" r="14" fill="#2E9B83"/>
+          <text x="14" y="19" text-anchor="middle" fill="#17211F" font-family="Noto Sans KR" font-size="12" font-weight="700">1</text>
+          <text x="38" y="19" fill="#17211F" font-family="Noto Sans KR" font-size="14" font-weight="500">안심 설정</text>
+          <path d="M122 14H154" stroke="#A9CFC5" stroke-width="2" stroke-linecap="round"/>
+          <circle cx="180" cy="14" r="14" fill="#FFFFFF" stroke="#C7D8D2"/>
+          <text x="180" y="19" text-anchor="middle" fill="#52635E" font-family="Noto Sans KR" font-size="12" font-weight="700">2</text>
+          <text x="204" y="19" fill="#52635E" font-family="Noto Sans KR" font-size="14" font-weight="500">메뉴 선택</text>
+          <path d="M288 14H320" stroke="#A9CFC5" stroke-width="2" stroke-linecap="round"/>
+          <circle cx="346" cy="14" r="14" fill="#FFFFFF" stroke="#C7D8D2"/>
+          <text x="346" y="19" text-anchor="middle" fill="#52635E" font-family="Noto Sans KR" font-size="12" font-weight="700">3</text>
+          <text x="370" y="19" fill="#52635E" font-family="Noto Sans KR" font-size="14" font-weight="500">주문 확인</text>
+        </g>
+      </g>
+
+      <g id="Reassurance" transform="translate(0 582)">
+        <circle cx="18" cy="18" r="18" fill="#D6F2EA"/>
+        <path d="M11 18L16 23L25 13" stroke="#2E9B83" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="48" y="14" fill="#17211F" font-family="Noto Sans KR" font-size="14" font-weight="500">원하지 않는 연락은 하지 않아요.</text>
+        <text x="48" y="36" fill="#52635E" font-family="Noto Sans KR" font-size="13" font-weight="400">필요한 상황은 앱 알림으로만 조용히 알려드려요.</text>
+      </g>
+    </g>
+
+    <g id="Safety Settings Card" filter="url(#cardShadow)" transform="translate(804 126)">
+      <rect width="524" height="680" rx="32" fill="#FFFFFF"/>
+      <g transform="translate(40 38)">
+        <g id="Step Label">
+          <rect width="104" height="32" rx="16" fill="#EAF8F4"/>
+          <text x="52" y="21" text-anchor="middle" fill="#17211F" font-family="Noto Sans KR" font-size="13" font-weight="700">3개 모두 켜짐</text>
+        </g>
+        <text x="0" y="78" fill="#17211F" font-family="Noto Sans KR" font-size="28" font-weight="700">배달받을 방식을 먼저 정해요</text>
+        <text x="0" y="110" fill="#52635E" font-family="Noto Sans KR" font-size="15" font-weight="400">원하는 항목만 켜고 끌 수 있어요.</text>
+
+        <g id="Setting Rows" transform="translate(0 140)">
+          <g id="No Phone Setting">
+            <circle cx="24" cy="30" r="22" fill="#EAF8F4"/>
+            <path d="M17 24C18 31 23 35 30 36" stroke="#2E9B83" stroke-width="2" stroke-linecap="round"/>
+            <path d="M16 22L20 20L23 26L20 28" stroke="#2E9B83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M29 33L31 30L37 33L35 37" stroke="#2E9B83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <text x="60" y="24" fill="#17211F" font-family="Noto Sans KR" font-size="16" font-weight="700">전화하지 않기</text>
+            <text x="60" y="48" fill="#52635E" font-family="Noto Sans KR" font-size="13" font-weight="400">필요할 때 앱 알림으로만 알려드려요</text>
+            <g id="Toggle On" transform="translate(384 10)">
+              <rect width="60" height="36" rx="18" fill="#2E9B83"/>
+              <circle cx="42" cy="18" r="14" fill="#FFFFFF"/>
+            </g>
+            <path d="M0 72H444" stroke="#E5EEEB"/>
+          </g>
+
+          <g id="No Bell Setting" transform="translate(0 90)">
+            <circle cx="24" cy="30" r="22" fill="#EAF8F4"/>
+            <path d="M24 18C19.5 18 17 21.5 17 26V31H31V26C31 21.5 28.5 18 24 18Z" stroke="#2E9B83" stroke-width="2" stroke-linejoin="round"/>
+            <path d="M21 35H27" stroke="#2E9B83" stroke-width="2" stroke-linecap="round"/>
+            <text x="60" y="24" fill="#17211F" font-family="Noto Sans KR" font-size="16" font-weight="700">벨 누르지 않기</text>
+            <text x="60" y="48" fill="#52635E" font-family="Noto Sans KR" font-size="13" font-weight="400">도착 알림은 조용히 보내드려요</text>
+            <g id="Toggle On" transform="translate(384 10)">
+              <rect width="60" height="36" rx="18" fill="#2E9B83"/>
+              <circle cx="42" cy="18" r="14" fill="#FFFFFF"/>
+            </g>
+            <path d="M0 72H444" stroke="#E5EEEB"/>
+          </g>
+
+          <g id="Door Drop Setting" transform="translate(0 180)">
+            <circle cx="24" cy="30" r="22" fill="#EAF8F4"/>
+            <path d="M16 34V22H29V34" stroke="#2E9B83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M20 34V28H26V34" stroke="#2E9B83" stroke-width="2" stroke-linejoin="round"/>
+            <rect x="30" y="30" width="8" height="6" rx="1" stroke="#2E9B83" stroke-width="2"/>
+            <text x="60" y="24" fill="#17211F" font-family="Noto Sans KR" font-size="16" font-weight="700">문 앞에 두기</text>
+            <text x="60" y="48" fill="#52635E" font-family="Noto Sans KR" font-size="13" font-weight="400">대면 없이 지정 위치에 놓아드려요</text>
+            <g id="Toggle On" transform="translate(384 10)">
+              <rect width="60" height="36" rx="18" fill="#2E9B83"/>
+              <circle cx="42" cy="18" r="14" fill="#FFFFFF"/>
+            </g>
+          </g>
+        </g>
+
+        <g id="Exception Notice" transform="translate(0 414)">
+          <rect width="444" height="74" rx="16" fill="#EAF8F4"/>
+          <circle cx="30" cy="37" r="16" fill="#D2EFE7"/>
+          <path d="M30 27V39" stroke="#2E9B83" stroke-width="2" stroke-linecap="round"/>
+          <circle cx="30" cy="45" r="1.5" fill="#2E9B83"/>
+          <text x="58" y="31" fill="#17211F" font-family="Noto Sans KR" font-size="14" font-weight="700">불가피할 때만 앱 알림 받기</text>
+          <text x="58" y="52" fill="#52635E" font-family="Noto Sans KR" font-size="12" font-weight="400">주소 확인이 꼭 필요하면 전화 대신 앱 알림을 보내요.</text>
+        </g>
+
+        <g id="Primary Button" transform="translate(0 512)">
+          <rect width="444" height="60" rx="16" fill="#2E9B83"/>
+          <text x="207" y="37" text-anchor="middle" fill="#17211F" font-family="Noto Sans KR" font-size="16" font-weight="700">안심 설정 확인하고 메뉴 보기</text>
+          <path d="M392 30H410M404 24L410 30L404 36" stroke="#17211F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+        <text x="222" y="604" text-anchor="middle" fill="#52635E" font-family="Noto Sans KR" font-size="12" font-weight="400">설정은 주문 전 언제든 바꿀 수 있어요.</text>
+      </g>
+    </g>
+  </g>
+</svg>
