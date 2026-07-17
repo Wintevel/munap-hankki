@@ -15,7 +15,7 @@
 - Figma 위치: `02 Main Screen` 페이지의 `Main/Desktop 1440` 프레임
 - React 프로젝트: Vite, React, JavaScript와 JSX, CSS, Lucide 아이콘 사용
 - React 실행 화면: 첫 화면과 주문 완료 화면 PNG 생성
-- GitHub 저장소: 아직 생성하지 않아 링크를 추가하지 않음
+- GitHub 저장소: [Wintevel/munap-hankki](https://github.com/Wintevel/munap-hankki)
 - Vercel: 선택 과제를 진행하지 않아 링크 없음
 
 # 공부한 내용
@@ -163,7 +163,8 @@ OpenAI Codex를 요구사항 분류, 조사 자료 정리, Figma 시안 구성, 
 - 격리된 Chrome에서 세 토글, 메뉴 4개, 옵션, 수량, 장바구니 추가와 삭제, 총액, 처리 중, 완료, 주소 앱 알림, 처음부터 다시 보기 흐름 검증 통과
 - 테스트한 주문: 바질 토마토 파스타, 든든하게, 무가당 보리차, 수량 `2`, 총액 `29,600원`
 - 서버, SQLite, 실제 결제, 실제 주문 전송 미구현
-- GitHub 저장소와 Vercel 배포 미진행
+- GitHub 공개 저장소 게시 완료: [Wintevel/munap-hankki](https://github.com/Wintevel/munap-hankki)
+- Vercel 배포 미진행
 
 # 다음에 공부할 것
 

@@ -43,6 +43,7 @@ pnpm build
 
 ## 결과물
 
+- [GitHub 저장소](https://github.com/Wintevel/munap-hankki)
 - [Figma 메인 화면](https://www.figma.com/design/0yrs9wRxhijR9HJQ9TllIb)
 - [Notion 기획 및 구현 설명](https://app.notion.com/p/3a0ec30a6eb881748b76f4fcef65945a)
 - [전체 기획 문서](docs/notion-draft.md)
