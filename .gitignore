@@ -5,3 +5,4 @@ dist
 .pnpm-store
 *.local
 *.log
+INBUILD-extra-assignment/
